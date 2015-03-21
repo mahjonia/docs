@@ -61,4 +61,4 @@
 | 捨て牌 | discarded tile |
 | リーチを宣言した人 | riichi declarer |
 
-* 参照：(英語の麻雀用語集・表現集)[http://perceptualmahjong.blog.so-net.ne.jp/2010-10-08]
+* 参照：[英語の麻雀用語集・表現集](http://perceptualmahjong.blog.so-net.ne.jp/2010-10-08)
